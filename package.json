@@ -19,6 +19,10 @@
     "build": "tsc --build",
     "clean": "tsc --build --clean"
   },
+  "files": [
+    "dist/",
+    "types/"
+  ],
   "homepage": "https://github.com/linvix-sistemas/ie-validator#readme",
   "author": "Cristiano Cruz <cristiano@linvix.com.br>",
   "license": "MIT",
