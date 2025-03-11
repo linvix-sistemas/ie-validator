@@ -25,8 +25,8 @@ const valid = IEValidator.validate('SC', '586653554');
 
 ```
 
-## License
+## Licença
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2025-present
+Copyright (c) 2025-atual
