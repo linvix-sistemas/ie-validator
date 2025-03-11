@@ -14,12 +14,13 @@ yarn add @linvix-sistemas/ie-validator
 ```
 
 ### Uso
-```
-import IEValidator from '@linvix-sistemas/cpf-cnpj-validator';
+```ts
+import IEValidator from '@linvix-sistemas/ie-validator';
+// OU
+import { validateIE } from '@linvix-sistemas/ie-validator';
 
 // valida uma IE
 const valid = IEValidator.validate('SC', '586653554');
-
 ```
 
 ## Licença
