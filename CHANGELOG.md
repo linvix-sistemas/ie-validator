@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.6](https://github.com/linvix-sistemas/ie-validator/compare/v0.0.5...v0.0.6) (2025-03-11)
+
+### News
+
+* export Possible UFs typing ([197211d](https://github.com/linvix-sistemas/ie-validator/commit/197211d7bdde9e8dec496528583349a6627e968c))
+
 ## [0.0.5](https://github.com/linvix-sistemas/ie-validator/compare/v0.0.4...v0.0.5) (2025-03-11)
 
 ### News
