@@ -1,0 +1,42 @@
+{
+  "name": "@linvix-sistemas/ie-validator",
+  "version": "0.0.1",
+  "description": "Validador de instrições estaduais brasileiras",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linvix-sistemas/ie-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linvix-sistemas/ie-validator/issues"
+  },
+  "scripts": {
+    "format": "prettier --write --config .prettierrc.cjs '**/*.{cjs,js,ts,jsx,tsx,json,css,scss,md}'",
+    "lint": "eslint ./src --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint ./src --ext .js,.jsx,.ts,.tsx --fix",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "homepage": "https://github.com/linvix-sistemas/ie-validator#readme",
+  "author": "Cristiano Cruz <cristiano@linvix.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.1.0",
+    "release-it": "^18.1.2",
+    "typescript": "^4.8.4"
+  },
+  "keywords": [
+    "ie",
+    "inscricao estadual",
+    "inscrição estadual",
+    "brasil",
+    "validator"
+  ]
+}
