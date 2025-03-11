@@ -2,7 +2,8 @@
   "name": "@linvix-sistemas/ie-validator",
   "version": "0.0.1",
   "description": "Validador de instrições estaduais brasileiras",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/linvix-sistemas/ie-validator.git"
