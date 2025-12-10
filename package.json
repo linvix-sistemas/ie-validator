@@ -1,6 +1,6 @@
 {
   "name": "@linvix-sistemas/ie-validator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Validador de instrições estaduais brasileiras",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
